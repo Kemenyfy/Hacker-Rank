@@ -4,6 +4,6 @@
 
 In:
 
-[ ] - Javascript (In Progress - Day 5)
+[ ] - Javascript (In Progress - Day 10)
 [ ] - C#
 [ ] - Java
